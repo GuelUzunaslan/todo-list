@@ -1,0 +1,9 @@
+body {
+    min-height: 650px;
+    background-color: #a18aff;
+    padding: 20px 0px 20px 0px;
+}
+
+.card {
+    height: 75px;
+}

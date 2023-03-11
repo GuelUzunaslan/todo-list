@@ -1,0 +1,12 @@
+body {
+    background-color: #a18aff;
+    padding: 45px;
+}
+
+.border1 {
+    border-style: solid;
+    border-color: white;
+    border-width: 15px;
+    border-radius: 25px;
+
+}
